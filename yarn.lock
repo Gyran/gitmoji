@@ -1581,6 +1581,10 @@ gift@^0.6.1:
   dependencies:
     underscore "1.x.x"
 
+gitmoji-data@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/gitmoji-data/-/gitmoji-data-1.1.0.tgz#4f3b679a5ec4898e859efd46163eb69ba01a15ec"
+
 glob-base@^0.3.0:
   version "0.3.0"
   resolved "https://npm.spatie.be/glob-base/-/glob-base-0.3.0.tgz#dbb164f6221b1c0b1ccf82aea328b497df0ea3c4"
